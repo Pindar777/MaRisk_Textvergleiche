@@ -1,6 +1,6 @@
 # MaRisk HTML-Textvergleiche 
 
-https://Pindar777.github.io/MaRisk_Textvergleich
+https://Pindar777.github.io/MaRisk_Textvergleiche
 
 ## Hintergrund
 
